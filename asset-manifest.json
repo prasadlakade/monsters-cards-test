@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monsters-cards-test/static/css/main.79100a7d.chunk.css",
-    "main.js": "/monsters-cards-test/static/js/main.effcb45f.chunk.js",
-    "main.js.map": "/monsters-cards-test/static/js/main.effcb45f.chunk.js.map",
+    "main.js": "/monsters-cards-test/static/js/main.7cedacd8.chunk.js",
+    "main.js.map": "/monsters-cards-test/static/js/main.7cedacd8.chunk.js.map",
     "runtime-main.js": "/monsters-cards-test/static/js/runtime-main.bc802f41.js",
     "runtime-main.js.map": "/monsters-cards-test/static/js/runtime-main.bc802f41.js.map",
     "static/js/2.d0bb573d.chunk.js": "/monsters-cards-test/static/js/2.d0bb573d.chunk.js",
     "static/js/2.d0bb573d.chunk.js.map": "/monsters-cards-test/static/js/2.d0bb573d.chunk.js.map",
     "index.html": "/monsters-cards-test/index.html",
-    "precache-manifest.82f41dec94b26a10e1b319acc2016e4c.js": "/monsters-cards-test/precache-manifest.82f41dec94b26a10e1b319acc2016e4c.js",
+    "precache-manifest.632711f8ec0ea14b794a4eaaa157c9cc.js": "/monsters-cards-test/precache-manifest.632711f8ec0ea14b794a4eaaa157c9cc.js",
     "service-worker.js": "/monsters-cards-test/service-worker.js",
     "static/css/main.79100a7d.chunk.css.map": "/monsters-cards-test/static/css/main.79100a7d.chunk.css.map",
     "static/js/2.d0bb573d.chunk.js.LICENSE.txt": "/monsters-cards-test/static/js/2.d0bb573d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bc802f41.js",
     "static/js/2.d0bb573d.chunk.js",
     "static/css/main.79100a7d.chunk.css",
-    "static/js/main.effcb45f.chunk.js"
+    "static/js/main.7cedacd8.chunk.js"
   ]
 }

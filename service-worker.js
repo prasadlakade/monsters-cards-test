@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/monsters-cards-test/precache-manifest.82f41dec94b26a10e1b319acc2016e4c.js"
+  "/monsters-cards-test/precache-manifest.632711f8ec0ea14b794a4eaaa157c9cc.js"
 );
 
 self.addEventListener('message', (event) => {
