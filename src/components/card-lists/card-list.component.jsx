@@ -5,7 +5,6 @@ import { Card } from './card/card.component';
 
 export const CardList = props => {
     return (
-        //<div className ="tpa-card-lists-wrapper">{props.children}</div>
         <div className ="tpa-card-lists">
         {
             props.monsters.map(monster => (
@@ -13,5 +12,5 @@ export const CardList = props => {
             ))
         }
         </div>
-    )
-}
+    );
+};

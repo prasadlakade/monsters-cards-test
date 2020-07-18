@@ -9,5 +9,5 @@ export const SearchBox = ({placeholder , handleChange}) => (
         onChange={handleChange}
         className="tpa-search"
     />
-)
+);
 
