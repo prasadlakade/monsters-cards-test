@@ -7,7 +7,7 @@ export const Card = (props) => {
         <div className = "tpa-card">
             <div className = "tpa-card-inner">
                 <div>
-                    <img alt='monsters' src={`https://robohash.org/${props.monster.id}?set=set2&size=180x180`} />                
+                    <img alt='monsters' src={`https://robohash.org/${props.monster.id}/3.14159?size=180x180`} />                
                 </div>
                 <h2>{props.monster.name}</h2>
                 <p>{props.monster.email}</p>
