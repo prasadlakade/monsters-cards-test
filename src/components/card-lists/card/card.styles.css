@@ -1,0 +1,12 @@
+.tpa-card-inner{
+    padding: 20px;
+    background-color: rgb(33, 92, 141);
+    color: #fff;
+    border-radius: 5px;
+    height: 100%;
+}
+
+.tpa-card-inner h2,
+.tpa-card-inner p {
+    padding: 20px 0;
+}

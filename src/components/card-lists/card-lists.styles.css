@@ -1,0 +1,27 @@
+.tpa-container{
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 1200px;
+    margin:0 auto;
+
+}
+.tpa-card-lists{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.tpa-card{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 25%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+}
+
+.tpa-card:hover{
+    transform: scale(1.05);
+}
