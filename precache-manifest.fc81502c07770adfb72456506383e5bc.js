@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfbf7ee55c6076b3be2e1b9d67bcf2ff",
+    "revision": "d17e3bfd8b387aeb88ac6379522eda5e",
     "url": "/monsters-cards-test/index.html"
   },
   {
-    "revision": "7392ea5156eac9f552f5",
+    "revision": "5142ed780926ede9a63a",
     "url": "/monsters-cards-test/static/css/main.79100a7d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monsters-cards-test/static/js/2.d0bb573d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7392ea5156eac9f552f5",
-    "url": "/monsters-cards-test/static/js/main.77f1672f.chunk.js"
+    "revision": "5142ed780926ede9a63a",
+    "url": "/monsters-cards-test/static/js/main.9246930e.chunk.js"
   },
   {
     "revision": "98c3d95cd039fa4c4093",
